@@ -4,6 +4,7 @@ This AWS workshop helps to create a simple serverless web application that enabl
 
 <h2>Application architecture</h2>
 The application architecture uses AWS Lambda, Amazon API Gateway, Amazon DynamoDB, Amazon Cognito, SES, IAM and AWS Amplify Console.
+<img width="400" height="200" src="https://github.com/Shruti-T/WildRydes-Aws/blob/main/images/Architecture.png" align="center">
 
 <h2>Static Web Hosting💻</h2>
 AWS Amplify to host the static resources for your web application with continuous deployment built in.
